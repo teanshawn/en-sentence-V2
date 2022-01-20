@@ -49,7 +49,7 @@ public class MyStringUtils {
     public static void main(String[] args) {
 //        System.out.println(startWithNumber("1. Hello! / Hi! 你好！"));
 //        System.out.println(checkCharContainChinese("1你好".charAt(0)));
-//        System.out.println(getIndexOfFirstChinese("1你好"));
+//        System.out.println(getIndexOfFirstChinese("1你好"));123
         System.out.println(startWithChinese("12你好"));
     }
 }
