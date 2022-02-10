@@ -20,8 +20,8 @@ public class EnTestTxtGenerate {
             }
         }
 //        File file = new File("src/main/resources/properties/test.properties");
-        try (PrintWriter englishWriter = new PrintWriter("src/main/resources/english.txt");
-                PrintWriter mandarinWriter = new PrintWriter("src/main/resources/mandarin.txt")) {
+        try (PrintWriter englishWriter = new PrintWriter("F:\\en-sentence-V2\\src\\main\\resources\\english.txt");
+                PrintWriter mandarinWriter = new PrintWriter("F:\\en-sentence-V2\\src\\main\\resources\\mandarin.txt")) {
             englishWriter.println(english);
             mandarinWriter.println(mandarin);
         }
