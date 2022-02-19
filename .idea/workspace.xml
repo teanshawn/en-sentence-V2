@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/en/EnTestTxtGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/en/EnTestTxtGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sentence.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\maven\apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23n8txuRT4Do58nbGvy6rkgYew3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\en-sentence-V2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EnTestTxtGenerate">
+    <configuration name="EnTestTxtGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="en.EnTestTxtGenerate" />
+      <module name="en-sentence" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="en.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/en-sentence-V2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EnTestTxtGenerate" />
+        <item itemvalue="Gradle.F:/en-sentence-V2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chentingxiang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="" />
+      <created>1642358710962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642358710962</updated>
+      <workItem from="1642358712978" duration="878000" />
+      <workItem from="1642689419151" duration="2098000" />
+      <workItem from="1642691553535" duration="1174000" />
+      <workItem from="1643464310249" duration="1236000" />
+      <workItem from="1644174615250" duration="82000" />
+      <workItem from="1644518845088" duration="717000" />
+      <workItem from="1644947921384" duration="1948000" />
+      <workItem from="1645036445610" duration="193000" />
+      <workItem from="1645121510056" duration="959000" />
+      <workItem from="1645253577730" duration="2594000" />
+    </task>
+    <task id="LOCAL-00001" summary="try to push">
+      <created>1642358790686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642358790686</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try to push">
+      <created>1642690415645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690415645</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add 5 sentence">
+      <created>1642698936204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642698936204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 5 sentences">
+      <created>1643476451302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643476451302</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add 4 sentences">
+      <created>1644174676535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644174676535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add 4 sentences">
+      <created>1644519297735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644519297735</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add 6 sentences">
+      <created>1644948038601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644948038601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add 6 sentences and Spoken.md">
+      <created>1645036602496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645036602496</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add some sentences and source file en-900.txt and sentence.txt">
+      <created>1645121859718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645121859718</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try to push" />
+    <MESSAGE value="add 5 sentence" />
+    <MESSAGE value="add 5 sentences" />
+    <MESSAGE value="add 4 sentences" />
+    <MESSAGE value="add 6 sentences" />
+    <MESSAGE value="add 6 sentences and Spoken.md" />
+    <MESSAGE value="add some sentences and source file en-900.txt and sentence.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some sentences and source file en-900.txt and sentence.txt" />
+  </component>
+</project>

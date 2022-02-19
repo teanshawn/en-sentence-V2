@@ -8,7 +8,8 @@ import java.util.List;
 
 public class EnTestTxtGenerate {
     public static void main(String[] args) throws IOException {
-        List<String> lines = Files.readAllLines(Path.of("src/main/resources/sentence.txt"));
+        System.out.println("start...");
+        List<String> lines = Files.readAllLines(Path.of("F:\\en-sentence-V2\\src\\main\\resources\\sentence.txt"));
         StringBuilder english = new StringBuilder();
         StringBuilder mandarin = new StringBuilder();
         for (int i = 0; i < lines.size(); i++) {
@@ -20,10 +21,11 @@ public class EnTestTxtGenerate {
             }
         }
 //        File file = new File("src/main/resources/properties/test.properties");
-        try (PrintWriter englishWriter = new PrintWriter("src/main/resources/english.txt");
-             PrintWriter mandarinWriter = new PrintWriter("src/main/resources/mandarin.txt")) {
+        try (PrintWriter englishWriter = new PrintWriter("F:\\en-sentence-V2\\src\\main\\resources\\english.txt");
+             PrintWriter mandarinWriter = new PrintWriter("F:\\en-sentence-V2\\src\\main\\resources\\mandarin.txt")) {
             englishWriter.println(english);
             mandarinWriter.println(mandarin);
         }
+        System.out.println("end...");
     }
 }
