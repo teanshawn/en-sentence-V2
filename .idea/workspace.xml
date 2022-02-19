@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/en/EnTestTxtGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/en/EnTestTxtGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sentence.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,7 @@
       <workItem from="1644947921384" duration="1948000" />
       <workItem from="1645036445610" duration="193000" />
       <workItem from="1645121510056" duration="959000" />
-      <workItem from="1645253577730" duration="2594000" />
+      <workItem from="1645253577730" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="try to push">
       <created>1642358790686</created>
