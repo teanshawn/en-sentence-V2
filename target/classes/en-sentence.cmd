@@ -15,6 +15,6 @@ SET daoTime=10
 :dao
 set /a daoTime=daoTime-1
 ping -n 2 -w 500 127.1>nul
-cls
+
 echo Git push finished, time to exit: %daoTime% second
 if %daoTime%==0 (exit) else (goto dao)
