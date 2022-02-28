@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="" />
+    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sentence.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,15 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,6 +122,7 @@
       <workItem from="1645036445610" duration="193000" />
       <workItem from="1645121510056" duration="959000" />
       <workItem from="1645253577730" duration="3564000" />
+      <workItem from="1646060775426" duration="2984000" />
     </task>
     <task id="LOCAL-00001" summary="try to push">
       <created>1642358790686</created>
@@ -186,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645121859718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="english-mywork.txt version 1.0">
+      <created>1646060990097</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646060990097</updated>
+    </task>
+    <task id="LOCAL-00011" summary="english-mywork.txt version 1.0 amended">
+      <created>1646062471140</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646062471140</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +227,8 @@
     <MESSAGE value="add 6 sentences" />
     <MESSAGE value="add 6 sentences and Spoken.md" />
     <MESSAGE value="add some sentences and source file en-900.txt and sentence.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some sentences and source file en-900.txt and sentence.txt" />
+    <MESSAGE value="english-mywork.txt version 1.0" />
+    <MESSAGE value="english-mywork.txt version 1.0 amended" />
+    <option name="LAST_COMMIT_MESSAGE" value="english-mywork.txt version 1.0 amended" />
   </component>
 </project>
