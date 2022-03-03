@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sentence.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +120,7 @@
       <workItem from="1645036445610" duration="193000" />
       <workItem from="1645121510056" duration="959000" />
       <workItem from="1645253577730" duration="3564000" />
-      <workItem from="1646060775426" duration="2984000" />
+      <workItem from="1646060775426" duration="3795000" />
     </task>
     <task id="LOCAL-00001" summary="try to push">
       <created>1642358790686</created>
@@ -201,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646062471140</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add gitignore">
+      <created>1646073878553</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646073878553</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +234,7 @@
     <MESSAGE value="add some sentences and source file en-900.txt and sentence.txt" />
     <MESSAGE value="english-mywork.txt version 1.0" />
     <MESSAGE value="english-mywork.txt version 1.0 amended" />
-    <option name="LAST_COMMIT_MESSAGE" value="english-mywork.txt version 1.0 amended" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
 </project>
