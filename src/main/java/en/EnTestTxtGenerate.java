@@ -8,7 +8,7 @@ import java.util.List;
 
 public class EnTestTxtGenerate {
     public static void main(String[] args) throws IOException {
-        String sentenceCountSeparator = ". ";
+
         System.out.println("start...");
         List<String> lines = Files.readAllLines(Path.of("F:\\en-sentence-V2\\src\\main\\resources\\sentence.txt"));
         StringBuilder english = new StringBuilder();
@@ -16,11 +16,11 @@ public class EnTestTxtGenerate {
         StringBuilder sentence = new StringBuilder();
         for (int i = 0, sentenceCount = 1; i < lines.size(); i++) {
             if (i % 3 == 0) {
-                english.append(sentenceCount).append(sentenceCountSeparator).append(lines.get(i)).append(System.lineSeparator()).append(System.lineSeparator());
-                sentence.append(sentenceCount).append(sentenceCountSeparator).append(lines.get(i)).append(System.lineSeparator());
+                appendConditionally(english, lines.get(i), sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
+                appendConditionally(sentence, lines.get(i), sentenceCount).append(System.lineSeparator());
             } else if (i % 3 == 1) {
-                mandarin.append(sentenceCount).append(sentenceCountSeparator).append(lines.get(i)).append(System.lineSeparator()).append(System.lineSeparator());
-                sentence.append(sentenceCount).append(sentenceCountSeparator).append(lines.get(i)).append(System.lineSeparator());
+                appendConditionally(mandarin, lines.get(i), sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
+                appendConditionally(sentence, lines.get(i), sentenceCount).append(System.lineSeparator());
             } else {
                 sentenceCount++;
                 sentence.append(System.lineSeparator());
@@ -36,5 +36,15 @@ public class EnTestTxtGenerate {
             sentenceWriter.println(sentence);
         }
         System.out.println("end...");
+    }
+
+    public static StringBuilder appendConditionally(StringBuilder sb, String line, int sentenceCount) {
+        String count = sentenceCount + "";
+        String prefix = line.substring(0, count.length());
+        if (count.equals(prefix)) {
+            return sb.append(line);
+        }
+        String sentenceCountSeparator = ". ";
+        return sb.append(sentenceCount).append(sentenceCountSeparator).append(line);
     }
 }
