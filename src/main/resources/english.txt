@@ -1,179 +1,187 @@
-The police are keeping the suspects under constant surveillance.
+1. The police are keeping the suspects under constant surveillance.
 
-I must admit I'm completely foxed.
+2. I must admit I'm completely foxed.
 
-The region has a very high population density.
+3. The region has a very high population density.
 
-Despite being a big star, she's very approachable.
+4. Despite being a big star, she's very approachable.
 
-Wood is a durable material.
+5. Wood is a durable material.
 
-I can't let myself be distracted by those things.
+6. I can't let myself be distracted by those things.
 
-To some extent this was the truth.
+7. To some extent this was the truth.
 
-Only a handful of people came.
+8. Only a handful of people came.
 
-I tried googling but couldn't find anything relevant.
+9. I tried googling but couldn't find anything relevant.
 
-I'm very conscious of my weight.
+10. I'm very conscious of my weight.
 
-The investigation has entered a new phase.
+11. The investigation has entered a new phase.
 
-Most patients derive enjoyment from leafing through old picture albums.
+12. Most patients derive enjoyment from leafing through old picture albums.
 
-Your account and hers do not correspond.
+13. Your account and hers do not correspond.
 
-Do you have the relevant experience?
+14. Do you have the relevant experience?
 
-Mr. Ying is one of those happy people who derive pleasure from helping others.
+15. Mr. Ying is one of those happy people who derive pleasure from helping others.
 
-It is also fascinating how our subconscious mind shapes our health.
+16. It is also fascinating how our subconscious mind shapes our health.
 
-Prices vary according to the quantity ordered.
+17. Prices vary according to the quantity ordered.
 
-Some of the studies show positive results, whereas others do not.
+18. Some of the studies show positive results, whereas others do not.
 
-How will these changes affect us?
+19. How will these changes affect us?
 
-Please convey my gratitude to her.
+20. Please convey my gratitude to her.
 
-I know I can trust her in any circumstance.
+21. I know I can trust her in any circumstance.
 
-The club welcomes all new members regardless of age.
+22. The club welcomes all new members regardless of age.
 
-They are not eligible for sick pay.
+23. They are not eligible for sick pay.
 
-He's only 17 and therefore not eligible to vote.
+24. He's only 17 and therefore not eligible to vote.
 
-The local government has taken an effective measure to take control of the housing price.
+25. The local government has taken an effective measure to take control of the housing price.
 
-There is a general recognition of the urgent need for reform.
+26. There is a general recognition of the urgent need for reform.
 
-The boy has great potential.
+27. The boy has great potential.
 
-The system is designed to be used in conjunction with a word processing program.
+28. The system is designed to be used in conjunction with a word processing program.
 
-Fruit and vegetables grew in abundance on the island.
+29. Fruit and vegetables grew in abundance on the island.
 
-A collation is the heart of any sorting algorithm.
+30. A collation is the heart of any sorting algorithm.
 
-The riders had to keep their pace up.
+31. The riders had to keep their pace up.
 
-I'm banking on you to help me with the arrangements.
+32. I'm banking on you to help me with the arrangements.
 
-Opinions diverge greatly on this issue.
+33. Opinions diverge greatly on this issue.
 
-She knows broadly what to expect.
+34. She knows broadly what to expect.
 
-Broadly speaking, there are two ways to do this.
+35. Broadly speaking, there are two ways to do this.
 
-There is no compelling reason to believe him.
+36. There is no compelling reason to believe him.
 
-We do not want to escalate the war.
+37. We do not want to escalate the war.
 
-She's proficient in several languages.
+38. She's proficient in several languages.
 
-It was a period of intense activity.
+39. It was a period of intense activity.
 
-I classify myself as an ordinary laborer.
+40. I classify myself as an ordinary laborer.
 
-How do you propose getting home?
+41. How do you propose getting home?
 
-What would you propose?
+42. What would you propose?
 
-She has the faculty to learn languages easily.
+43. She has the faculty to learn languages easily.
 
-The government had to take emergency action.
+44. The government had to take emergency action.
 
-The first hurdle is to get back match fit and playing games.
+45. The first hurdle is to get back match fit and playing games.
 
-Could he distinguish right from wrong?
+46. Could he distinguish right from wrong?
 
-Your work has shown a significant improvement.
+47. Your work has shown a significant improvement.
 
-I made a solemn promise that I would return.
+48. I made a solemn promise that I would return.
 
-Speed is the essential ingredient of all athletics.
+49. Speed is the essential ingredient of all athletics.
 
-How do the people perceive this problem?
+50. How do the people perceive this problem?
 
-It doesn't alter the way I feel.
+51. It doesn't alter the way I feel.
 
-The director has given her assent to the proposals.
+52. The director has given her assent to the proposals.
 
-Nobody could predict the outcome.
+53. Nobody could predict the outcome.
 
-The weather gradually improved.
+54. The weather gradually improved.
 
-He attended school, but didn't attend to his lessons.
+55. He attended school, but didn't attend to his lessons.
 
-Make sure the firm is competent to carry out the work.
+56. Make sure the firm is competent to carry out the work.
 
-It was a collective decision.
+57. It was a collective decision.
 
-My morning commute takes about 1 hour.
+58. My morning commute takes about 1 hour.
 
-I'm perfectly content just to lie in the sun.
+59. I'm perfectly content just to lie in the sun.
 
-The former option would be much more sensible.
+60. The former option would be much more sensible.
 
-He left the party early on the pretext of having to work.
+61. He left the party early on the pretext of having to work.
 
-Two of our greatest strengths are diversity and community.
+62. Two of our greatest strengths are diversity and community.
 
-So what can we conclude from this debate?
+63. So what can we conclude from this debate?
 
-It is time, once again, to contend with racism.
+64. It is time, once again, to contend with racism.
 
-Admission is by invitation only.
+65. Admission is by invitation only.
 
-They had to take the finely balanced decision to let the visit proceed.
+66. They had to take the finely balanced decision to let the visit proceed.
 
-Her lawyers say she should be compensated for the suffering she had been caused.
+67. Her lawyers say she should be compensated for the suffering she had been caused.
 
-We have a duty to uphold the law.
+68. We have a duty to uphold the law.
 
-You must weigh the benefits against the cost.
+69. You must weigh the benefits against the cost.
 
-Teachers provide a model for children to imitate.
+70. Teachers provide a model for children to imitate.
 
-It is useless to speculate why he did it.
+71. It is useless to speculate why he did it.
 
-I have nothing further to say in this regard.
+72. I have nothing further to say in this regard.
 
-I regard this as a serious matter.
+73. I regard this as a serious matter.
 
-You should put more effort into your work.
+74. You should put more effort into your work.
 
-Biggest doesn't necessarily mean best.
+75. Biggest doesn't necessarily mean best.
 
-First of all we must identify the problem areas.
+76. First of all we must identify the problem areas.
 
-There was never an official institution of censorship in Japan.
+77. There was never an official institution of censorship in Japan.
 
-She didn't want to impose her values on her family.
+78. She didn't want to impose her values on her family.
 
-Like it or not, our families shape our lives and make us what we are.
+79. Like it or not, our families shape our lives and make us what we are.
 
-The costs have increased substantially.
+80. The costs have increased substantially.
 
-He was, essentially, a teacher, not a manager.
+81. He was, essentially, a teacher, not a manager.
 
-A second-hand car costs a fraction of a new one.
+82. A second-hand car costs a fraction of a new one.
 
-She was a truly remarkable woman.
+83. She was a truly remarkable woman.
 
-I was devastated when her words came true.
+84. I was devastated when her words came true.
 
-..the correlation between smoking and disease.
+85. ..the correlation between smoking and disease.
 
-The novel is set in the Roman period.
+86. The novel is set in the Roman period.
 
-The improper use of medicine could lead to severe adverse reactions.
+87. The improper use of medicine could lead to severe adverse reactions.
 
-This is a necessary consequence of progress.
+88. This is a necessary consequence of progress.
 
-He never ceases to amaze me.
+89. He never ceases to amaze me.
+
+90. Governments have at least a moral obligation to answer these questions.
+
+91. The area's wine industry still has a way to go to full maturity.
+
+92. The scientist developed one model to simulate a full year of the globe's climate.
+
+93. How can they justify paying such huge salaries?
 
 
