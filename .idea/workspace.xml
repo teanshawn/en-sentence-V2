@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="" />
+    <list default="true" id="b0a320c3-0c74-4280-af24-41c0e5ed6233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/en-sentence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/en-sentence.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +123,8 @@
       <workItem from="1645121510056" duration="959000" />
       <workItem from="1645253577730" duration="3564000" />
       <workItem from="1646060775426" duration="3795000" />
+      <workItem from="1646935929381" duration="2629000" />
+      <workItem from="1647116401560" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="try to push">
       <created>1642358790686</created>
@@ -206,7 +210,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646073878553</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add sentenceCount">
+      <created>1646936871863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646936871863</updated>
+    </task>
+    <task id="LOCAL-00014" summary="adjust gitignore file">
+      <created>1646937203666</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646937203666</updated>
+    </task>
+    <task id="LOCAL-00015" summary="append sentenceCount conditionally">
+      <created>1646938134164</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646938134164</updated>
+    </task>
+    <task id="LOCAL-00016" summary="append sentenceCount conditionally">
+      <created>1647117538266</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647117538266</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +257,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value="try to push" />
     <MESSAGE value="add 5 sentence" />
     <MESSAGE value="add 5 sentences" />
@@ -235,6 +268,9 @@
     <MESSAGE value="english-mywork.txt version 1.0" />
     <MESSAGE value="english-mywork.txt version 1.0 amended" />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="add sentenceCount" />
+    <MESSAGE value="adjust gitignore file" />
+    <MESSAGE value="append sentenceCount conditionally" />
+    <option name="LAST_COMMIT_MESSAGE" value="append sentenceCount conditionally" />
   </component>
 </project>
