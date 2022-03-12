@@ -1,93 +1,92 @@
-The police are keeping the suspects under constant surveillance.
+1. 警方正对嫌疑人实施不间断监视。
+(The) Police are keeping the suspects under constant surveillance.
 
+2. 我得承认我一点都不懂。
 I have to admit I don't understand at all.
 
+3. 这一地区人口密度很高。
 The region has a very high population density.
 
-Despite being a big star, she's very approachable.
+4. 她虽然是个大明星，却非常平易近人。
+Despite being a big star, she is very approachble(approachable).
 
-Wood is a durable material.
+5. 木头是耐用材料。
+Wooden(Wood) is a durable material.
 
+6. 我不能任由自己被那些东西分散注意力。
 I can't let myself be distracted by those things.
 
-To some extent this was the truth.
+7. 在某种程度上这是事实。
+In(To) some extent, that is the truth.
 
+8. 只有少数几个人来了。
 Only a handful of people came.
 
-I tried googling but couldn't find anything relevant.
+9. 我试着用搜索引擎检索，但找不到任何相关信息。
+I tried to search by google, but can't(couldn't) find anything relevant.
 
+10. 我很在意自己的体重。
 I am very conscious of my weight.
 
-The investigation has entered a new phase.
+11. 调查已进入新阶段。
+The investigation has entered (a) new phase.
 
-Most patients derive enjoyment from leafing through old picture albums.
+12. 大部分病人能从翻阅旧相册中获得乐趣。
+Most patients can derive enjoyment from leafing through old ablums.
 
-Your account and hers do not correspond.
+13. 你说的情况与她说的不相符。
+Your account and hers don't correspond.
 
-Do you have the relevant experience?
+14. 你有相关的经历吗？
+Do you have relevant experience?
 
-Mr.Ying is one of those happy people who derive pleasure from helping others.
+15. 英先生是那种助人为乐的快活人。
+Mr.Ying is one of those happy people who [can] derive pleasure from helping others.
 
-It is also fascinating how our subconscious mind shapes our health.
+16. 我们的潜意识影响我们健康的方式也是很有趣的。
+(It is also fascinating how our subconscious mind shapes our health.)
 
-The price vary according to the quantity ordered.
+17. 价格根据所订数量而变化。
+Prices vary according to the ordered quantity(the quantity ordered).
 
-Some of the studies show positive results, whereas others do not.
+18. 有一些研究结果令人满意，然而其他的则不然。
+Some studies show positivee results, whereas others (do) not.
 
-How will the change affect us?
+19. 这些变化对我们会有什么影响？
+How will these change(changes) affect us?
 
+20. 请向她转达我的谢意。
 Please convey my gratitude to her.
 
-I know I can trust her in any circumstance.
+21. 我知道我在任何情况下都能信任她。
+I know I can trust her in any circunstance.
 
-The club welcome all new members regardless of age.
+22. 俱乐部对所有新成员不分年龄一律欢迎。
+The club welcomes all new members regardless of age.
 
+23. 他们没有资格领病假工资。
 They are not eligible for sick pay.
 
-He's only 17 and therefore not eligible to vote.
+24. 他只有17岁，因此没有投票选举的资格。
+He is only 17 (and) therefore not elgible to vote.
 
-The local government has taken an effective measure to control the housing price.
+25. 当地政府已经采取了有效措施来控制房价。
+The local government has taken (an) effective measure to control housing price.
 
-There is a general recognition of the urgent need for reform.
+26. 人们普遍认识到迫切需要改革。
+People generally recgonize the urgent need of reform. 
+(There is a general recognition of the urgent need for reform.)
 
-The boy has great potential.
+27. 这个男孩有很大的潜力。
+The bog has great potential.
 
-The system is designed to be used in conjunction with a word processing program.
+28. 本系统是为与文字处理软件配合使用而设计的。
+The system is designed for in conjunction with letter processor. 
+(The system is designed to be used in conjunction with a word processing program.)
 
-Fruit and vegetables grew in abundance on the island.
+29. 该岛盛产水果和蔬菜。
+Fruits and vegetable are grew abundance in the island. 
+(Fruit and vegetables grew in abundance on the island.)
 
-A collation is the heart of any sorting algorithm.
-
-The riders must keep their pace up.
-
-I'm banking on you to help me with the arrangements.
-
-Opinions diverge greatly on this issue.
-
-She knows broadly what to expect.
-
-Broadly speaking, there are two ways to do this.
-
-There is no compelling reason to believe him.
-
-We don't want to escalate the war.
-
-She is proficient in several languages.
-
-It was a period of intense activity.
-
-I classify myself as an ordinary laborer.
-
-How do you propose to get home?
-
-What would you propose?
-
-She has the faculty of language learning.
-
-The government had to take emergency action.
-
-The first hurdle is to get back match fit and playing games.
-
-Can he distinguish right from wrong?
-
-Your work has shown a significant improvement.
+30. 排序是任何排序算法的核心。
+A collaction is the heart of any sort althorithm(algorithm).

@@ -2,6 +2,7 @@ package en;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
@@ -10,17 +11,23 @@ public class EnTestTxtGenerate {
     public static void main(String[] args) throws IOException {
 
         System.out.println("start...");
-        List<String> lines = Files.readAllLines(Path.of("F:\\en-sentence-V2\\src\\main\\resources\\sentence.txt"));
+        List<String> lines = Files.readAllLines(Path.of("F:\\en-sentence-V2\\src\\main\\resources\\sentence.txt"), Charset.forName("GBK"));
         StringBuilder english = new StringBuilder();
         StringBuilder mandarin = new StringBuilder();
         StringBuilder sentence = new StringBuilder();
+        int consecutiveLineBlank = 0;
         for (int i = 0, sentenceCount = 1; i < lines.size(); i++) {
+            String line = lines.get(i);
+            if ("".equals(line))
+                consecutiveLineBlank++;
+            else consecutiveLineBlank = 0;
+            if (consecutiveLineBlank >= 2) return;
             if (i % 3 == 0) {
-                appendConditionally(english, lines.get(i), sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
-                appendConditionally(sentence, lines.get(i), sentenceCount).append(System.lineSeparator());
+                appendConditionally(english, line, sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
+                appendConditionally(sentence, line, sentenceCount).append(System.lineSeparator());
             } else if (i % 3 == 1) {
-                appendConditionally(mandarin, lines.get(i), sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
-                appendConditionally(sentence, lines.get(i), sentenceCount).append(System.lineSeparator());
+                appendConditionally(mandarin, line, sentenceCount).append(System.lineSeparator()).append(System.lineSeparator());
+                appendConditionally(sentence, line, sentenceCount).append(System.lineSeparator());
             } else {
                 sentenceCount++;
                 sentence.append(System.lineSeparator());
