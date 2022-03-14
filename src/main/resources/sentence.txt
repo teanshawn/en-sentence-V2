@@ -196,10 +196,10 @@
 66. They had to take the finely balanced decision to let the visit proceed.
 66. 他们不得不做出仔细权衡后的决定，让访问继续下去。
 
-67. Her lawyers say she should be compensated for the suffering she had been caused.
+67. Her lawyer said she should be compensated for the pain her suffered.
 67. 她的律师说她应该为所遭受的痛苦得到赔偿。
 
-68. We have a duty to uphold the law.
+68. Upholding the law is our responsibility.
 68. 维护法律是我们的责任。
 
 69. You must weigh the benefits against the cost.
@@ -316,4 +316,21 @@
 106. How dare she imply that I was lying?
 106. 她竟敢暗示我在撒谎？
 
+107. Working hours must not exceed 42 hours a week.
+107. 工作时间每周不得超过42小时。
+
+108. There is little or no incentive to adopt such measures.
+108. 几乎或根本没有鼓励来采取这样的措施。
+
+109. The cameras were not an intrusive presence.
+109. 这些摄像机的存在不会造成干扰。
+
+110. Children tend to have relatively larger heads than adults in proportion to the rest of their body.
+110. 与身体其余部位相比，孩子头部所占比例往往比成人大。
+
+111. We have a very crowded schedule.
+111. 我们的日程排得满满的。
+
+112. I drank a toast to the bride and groom.
+112. 我给新郎和新娘敬了酒。
 
