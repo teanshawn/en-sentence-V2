@@ -152,3 +152,33 @@ Upholding the law is our ~~obligation~~(duty / responsibility).
 
 70. 教师是孩子仿效的典范。
 (Teachers provide a model for kids to imitate.)
+71. 对他为什么这么做妄加猜测毫无用处。
+    It's useless to speculate why he did that.
+72. 在这方面，我没什么要说的了。
+I have nothing further to say in this regard.
+73. 我认为这是一件重要的事情。
+I think it's an important thing.(I **regard this as** a serious matter.)
+74. 你应该更加努力地工作。
+    You should work harder.(You should **put more effort into** your work.)
+75. 最大的不一定是最好的。
+    The biggest doesn't mean the best.(The biggest is not **necessarily** the best.)
+76. 首先我们必须找出问题所在。
+    Firstly we have to find out the problem.
+77. 日本从来就没有正式建立过审查制度。
+    (There is never an **official institution of censorship** in Japan.)
+78. 她并不想勉强家人接受自己的价值观。
+    She didn't want to impose her values ~~to~~(**on**) her family.
+79. 不管喜欢与否，我们的家庭塑造我们的生活并铸就我们的个性。
+    (**Like it or not**, our families shape our lives and make us what we are.)
+80. 成本大大提高了。
+    The costs **have** increased substaincially(**substantially**)
+81. 他本质上来说是个教师而不是经理。
+82. 二手车的花费只是新车的零头。
+83. 她是一位真正非同凡响的女人。
+84. 她的话应验时，我感到震惊。
+85. …吸烟和疾病之间的关联。
+86. 该小说的背景是罗马时期。
+87. 用药不当会引起严重的不良反应。
+88. 这是发展的必然后果。
+89. 他总让我惊喜不断。
+90. 政府至少在道义上有责任回应这些问题。
