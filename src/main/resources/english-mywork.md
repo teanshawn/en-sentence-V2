@@ -173,12 +173,24 @@ I think it's an important thing.(I **regard this as** a serious matter.)
 80. 成本大大提高了。
     The costs **have** increased substaincially(**substantially**)
 81. 他本质上来说是个教师而不是经理。
+    He is essentially, a teacher, not a manager.
 82. 二手车的花费只是新车的零头。
+    A ~~Two-hands~~(Second-hand) car only costs a fraction of ~~new car~~(a new one).
 83. 她是一位真正非同凡响的女人。
+    She is a truely remarkable women.
 84. 她的话应验时，我感到震惊。
+    I was devastated when her words came true.
 85. …吸烟和疾病之间的关联。
+    the correlation between smoking and disease.
 86. 该小说的背景是罗马时期。
+    ~~The period of fiction is set to Roma.~~(The novel is set in the Roman period.)
 87. 用药不当会引起严重的不良反应。
+    Taking the medicine improperly will case (a) severe adverse reaction.
+    (**The improper use** of medicine could **lead to** severe adverse reactions.)
 88. 这是发展的必然后果。
+    It's the inevitable result of development.
+    (This is a necessary consequence of progress.)
 89. 他总让我惊喜不断。
+    He never ceases to amaze me.
 90. 政府至少在道义上有责任回应这些问题。
+    The government at least has the moral obligation to answer these questions.
