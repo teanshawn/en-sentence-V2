@@ -337,4 +337,7 @@
 113. Medical technology has advanced considerably.
 113. 医学技术已大大发展了。
 
+114. To identify risks, we need to know the rules and be aware of the facts.
+114. 为了识别风险，我们需要知道规则，了解事实。
+
 
